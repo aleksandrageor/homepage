@@ -1,4 +1,3 @@
-.color.gold:before {
-    background-color: gold;
-  }
-  
+.color.gold::before {
+  background-color: gold;
+}
